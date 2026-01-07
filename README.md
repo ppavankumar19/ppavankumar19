@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ponnuri Pavan Kumar
+# 👋 Hi, I'm Pavan Kumar Ponnuri
 
 🚀 **Heavy Backend & Full-Stack Developer | GenAI Enthusiast**  
 🎓 Computer Science Graduate  
