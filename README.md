@@ -1,109 +1,130 @@
-# 👋 Hi, I'm Pavan Kumar Ponnuri
+<div align="center">
 
-🚀 **Heavy Backend & Full-Stack Developer | GenAI Enthusiast**  
-🎓 Computer Science Graduate  
-📍 Visakhapatnam, India  
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20GenAI%20Builder&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
----
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Backend+%7C+Full-Stack+%7C+GenAI;Turning+ideas+into+production-grade+code" alt="Typing SVG" />
+</a>
 
-## 💫 About Me
+<br/>
 
-I’m a computer science graduate specialising in backend-heavy systems, full-stack development, and Generative AI applications. I enjoy building **scalable, performance-driven, and educational platforms** that convert complex technical concepts into practical, hands-on experiences.
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankumar19)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/19_pavankumar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumar.prrp@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ppavankumar19&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/ppavankumar19)
 
-I have hands-on experience with **Python, Java, SQL, and modern web technologies**, along with strong fundamentals in **data analytics, machine learning, and data visualisation**. Through internships in **Data Analytics and Data Science**, I’ve worked on real-world datasets, performed **EDA**, built dashboards, and implemented ML models such as **Decision Trees, Random Forests, and Linear Regression**.
-
-### 🔥 What I Specialise In
-- **Backend-heavy architectures & APIs**
-- **Full-stack web applications**
-- **GenAI-powered learning platforms**
-- **Developer tooling & systems thinking**
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankumar19)
-[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/19_pavankumar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavankumar.prrp@gmail.com)
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ About Me
 
-### 👨‍💻 Languages & Core
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+```yaml
+name       : Pavan Kumar Ponnuri
+location   : Visakhapatnam, India 🇮🇳
+Education : Computer Science Graduate
+role       : Backend-Heavy Full-Stack Developer & GenAI Enthusiast
 
-### 🌐 Backend & Full Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+specialises_in:
+  - Backend architectures & REST/GraphQL APIs
+  - Full-stack scalable web applications
+  - GenAI-powered platforms & LLM integrations
+  - Developer tooling & systems thinking
+
+currently:
+  - Building → Interactive Command-Line Learning Platform
+  - Learning → Advanced system design & distributed systems
+  - Exploring → GenAI agent frameworks & automation
+
+quote: "Build systems that are simple to use, hard to break, and easy to scale."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Backend & Full-Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 Data, ML & GenAI
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6A5ACD)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppavankumar19&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ppavankumar19&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ppavankumar19&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🧑‍💻 Interactive Command-Line Learning Platform
-- Learn **Windows, Linux & Git commands**
-- Terminal demos using **Asciinema**
-- Browser-based **WASM terminal practice**
-- Backend-heavy, educational system
+<div align="center">
+
+| 🧑‍💻 Interactive Command-Line Learning Platform |
+|---|
+| A backend-heavy educational system for learning **Windows, Linux & Git** commands |
+| 🎬 Terminal demos via **Asciinema** · 🖥️ Browser-based **WASM terminal** practice |
+| Built for developers who learn by **doing**, not just reading |
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-- Backend system design
-- Full-stack scalability
-- Generative AI integrations
-- Developer tooling & automation
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
 
 ---
 
-> ⭐ *“Build systems that are simple to use, hard to break, and easy to scale.”*
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ppavankumar19&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ppavankumar19&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
