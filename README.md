@@ -122,33 +122,124 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 ---
 
 ## 🚀 Featured Projects
-                                                                                                                
+
+<!-- ─────────────── PROJECT 1 ─────────────── -->
+
+<table>
+<tr>
+<td>
+
 ### 🧑‍💻 Interactive Command-Line Learning Platform
 
-Learn Windows, Linux & Git commands through an immersive, hands-on experience.
+> Learn Windows, Linux & Git commands through an immersive, hands-on experience — built for developers who learn by doing.
 
-- 🎬 Terminal demos powered by Asciinema
-- 🖥️ Browser-based practice via WASM terminal
-- ⚙️ Backend-heavy educational architecture
-- 📚 Progressive learning paths — beginner to advanced
-- 🧪 Real-time command validation & feedback
+<br/>
 
-Built for developers who learn by doing, not just reading.
+| | Highlights |
+|---|---|
+| 🎬 | Terminal demos powered by **Asciinema** |
+| 🖥️ | Browser-based practice via **WASM terminal** |
+| ⚙️ | Backend-heavy educational architecture |
+| 📚 | Progressive learning paths — **beginner → advanced** |
+| 🧪 | Real-time command validation & feedback |
+
+<br/>
+
+**Tech Stack**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Asciinema](https://img.shields.io/badge/Asciinema-D40000?style=flat-square&logo=asciinema&logoColor=white)
+
+**Status:** 🟢 In Active Development
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────── PROJECT 2 ─────────────── -->
+
+<table>
+<tr>
+<td>
 
 ### 🧪 ChemSus Technologies — E-Commerce Platform
 
-Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable biochemicals company.
+> Full-stack web application for **ChemSus Technologies Pvt Ltd** — a sustainable biochemicals company.
 
-- 🔐 Supabase Auth — Email/Password & Google OAuth
-- 🛍️ Shop with cart, buy-now, OTP-verified checkout & UPI payments
-- 📦 User order tracking with item-level delivery status
-- 💬 Order messaging — customers query, admin replies
-- 🛠️ Admin dashboard — products, orders, payments, customers & users management
+<br/>
 
-[https://chemsus-technologies-pvt-ltd.onrender.com](https://chemsus-technologies-pvt-ltd.onrender.com)
-[https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD](https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD)
+| | Highlights |
+|---|---|
+| 🔐 | **Supabase Auth** — Email/Password & Google OAuth |
+| 🛍️ | Shop with cart, buy-now, OTP-verified checkout & UPI payments |
+| 📦 | User order tracking with item-level delivery status |
+| 💬 | Order messaging — customers query, admin replies |
+| 🛠️ | Admin dashboard — products, orders, payments, customers & users mgmt |
 
-Stack: Node.js Express PostgreSQL Supabase Vanilla JS
+<br/>
+
+**Tech Stack**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Status:** 🟢 Live &nbsp;&nbsp;|&nbsp;&nbsp; [🌐 Visit Site](https://chemsus-technologies-pvt-ltd.onrender.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📂 Source Code](https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD)
+
+<br/>
+
+<details>
+<summary><b>📐 Architecture Overview</b></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         CLIENT (Browser)                        │
+│                        Vanilla JS + HTML/CSS                    │
+├─────────────────────────────────────────────────────────────────┤
+│                              │                                  │
+│                    REST API Requests                            │
+│                              │                                  │
+│                              ▼                                  │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │                  SERVER (Node.js + Express)              │   │
+│  │                                                          │   │
+│  │   ┌────────────┐  ┌─────────────┐  ┌────────────────┐   │   │
+│  │   │   Routes   │  │ Controllers │  │  Middleware     │   │   │
+│  │   │  /api/auth │  │  Products   │  │  Auth Guard     │   │   │
+│  │   │  /api/shop │  │  Orders     │  │  Role Check     │   │   │
+│  │   │  /api/admin│  │  Payments   │  │  OTP Verify     │   │   │
+│  │   └────────────┘  └─────────────┘  └────────────────┘   │   │
+│  │                          │                               │   │
+│  └──────────────────────────┼───────────────────────────────┘   │
+│                              │                                  │
+│                              ▼                                  │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │                 DATA LAYER                               │   │
+│  │                                                          │   │
+│  │   ┌─────────────────┐      ┌─────────────────────────┐   │   │
+│  │   │   PostgreSQL    │      │     Supabase Auth       │   │   │
+│  │   │  ─────────────  │      │  ─────────────────────  │   │   │
+│  │   │  Products       │      │  Email/Password Login   │   │   │
+│  │   │  Orders         │      │  Google OAuth           │   │   │
+│  │   │  Payments       │      │  Session Management     │   │   │
+│  │   │  Users          │      │                         │   │   │
+│  │   └─────────────────┘      └─────────────────────────┘   │   │
+│  └──────────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
