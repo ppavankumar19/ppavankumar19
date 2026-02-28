@@ -45,11 +45,11 @@ currently:
   exploring : GenAI agent frameworks & automation
 
 fun_fact    : I turn complex technical concepts into hands-on learning experiences
-` `` 
+```
 
 I'm a CS graduate specialising in **backend-heavy systems**, **full-stack development**, and **Generative AI applications**. Through internships in **Data Analytics** and **Data Science**, I've worked on real-world datasets — performing EDA, building dashboards, and implementing ML models like Decision Trees, Random Forests, and Linear Regression.
 
-***
+---
 
 ## 🛠️ Tech Stack
 
@@ -59,12 +59,12 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 <summary><b>👨‍💻 Languages</b></summary>
 <br/>
 
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
 
@@ -72,11 +72,11 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 <summary><b>🌐 Backend & Full-Stack</b></summary>
 <br/>
 
-
-
-
-
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </details>
 
@@ -84,10 +84,10 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 <summary><b>🗄️ Databases</b></summary>
 <br/>
 
-
-
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -95,12 +95,12 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 <summary><b>🤖 Data, ML & GenAI</b></summary>
 <br/>
 
-
-
-
-
-
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
@@ -108,27 +108,21 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 <summary><b>🔧 Tools & DevOps</b></summary>
 <br/>
 
-
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
 </div>
 
-***
+---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
+                                                                                                                
 ### 🧑‍💻 Interactive Command-Line Learning Platform
 
 Learn Windows, Linux & Git commands through an immersive, hands-on experience.
@@ -139,10 +133,7 @@ Learn Windows, Linux & Git commands through an immersive, hands-on experience.
 - 📚 Progressive learning paths — beginner to advanced
 - 🧪 Real-time command validation & feedback
 
-> Built for developers who learn by doing, not just reading.
-
-</td>
-<td width="50%" valign="top">
+Built for developers who learn by doing, not just reading.
 
 ### 🧪 ChemSus Technologies — E-Commerce Platform
 
@@ -154,18 +145,12 @@ Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable bi
 - 💬 Order messaging — customers query, admin replies
 - 🛠️ Admin dashboard — products, orders, payments, customers & users management
 
-[
-[
+[https://chemsus-technologies-pvt-ltd.onrender.com](https://chemsus-technologies-pvt-ltd.onrender.com)
+[https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD](https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD)
 
-**Stack:** `Node.js` `Express` `PostgreSQL` `Supabase` `Vanilla JS`
+Stack: Node.js Express PostgreSQL Supabase Vanilla JS
 
-</td>
-</tr>
-</table>
-
-</div>
-
-***
+---
 
 ## 📊 GitHub Stats
 
@@ -180,7 +165,7 @@ Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable bi
 
 </div>
 
-***
+---
 
 ## 🏆 GitHub Trophies
 
@@ -188,7 +173,7 @@ Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable bi
   <img src="https://github-profile-trophy.vercel.app/?username=ppavankumar19&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
 </div>
 
-***
+---
 
 ## 📈 Contribution Graph
 
@@ -196,7 +181,7 @@ Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable bi
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ppavankumar19&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true" />
 </div>
 
-***
+---
 
 ## 🎯 Current Focus
 
@@ -211,7 +196,7 @@ Full-stack web application for ChemSus Technologies Pvt Ltd — a sustainable bi
 </table>
 </div>
 
-***
+---
 
 <div align="center">
 
