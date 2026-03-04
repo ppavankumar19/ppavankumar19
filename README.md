@@ -241,6 +241,49 @@ I'm a CS graduate specialising in **backend-heavy systems**, **full-stack develo
 </tr>
 </table>
 
+<br/>
+
+<!-- ─────────────── PROJECT 3 ─────────────── -->
+
+<table>
+<tr>
+<td>
+
+### 🗺️ Atlas — AI Travel Planner
+
+> A full-stack AI-powered travel itinerary builder with real Airbnb listings, interactive maps, live currency conversion, and beautiful PDF export.
+
+<br/>
+
+| | Highlights |
+|---|---|
+| 🤖 | **Groq Llama 3.3 70B** generates complete day-by-day itineraries |
+| 🏠 | **Live Airbnb listings** via MCP server integration |
+| 🗺️ | **Interactive Leaflet.js maps** with CartoDB Voyager tiles |
+| 💱 | **150+ currencies** via Frankfurter API — all prices in your home currency |
+| 📄 | **Structured PDF export** — cover page, TOC, day plans, restaurant list |
+| 📅 | **Calendar export** — `.ics` for Google Calendar, Outlook, Apple Calendar |
+| 🌍 | **Wikipedia cards** — destination overview with image |
+| ♿ | **Accessibility options** — wheelchair, elevator, limited walking & more |
+
+<br/>
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Status:** 🟢 Live &nbsp;&nbsp;|&nbsp;&nbsp; [🌐 Visit Site](https://atlas.19062002.xyz) &nbsp;&nbsp;|&nbsp;&nbsp; [📂 Source Code](https://github.com/ppavankumar19/atlas-travel-planner)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
