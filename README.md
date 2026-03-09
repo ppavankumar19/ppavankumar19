@@ -27,7 +27,7 @@
 [![LinkedIn — Pavan Kumar](https://img.shields.io/badge/-Pavan_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankumar19)
 [![X — @19_pavankumar](https://img.shields.io/badge/-@19__pavankumar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/19_pavankumar)
 [![Email — pavankumar.prrp@gmail.com](https://img.shields.io/badge/-pavankumar.prrp-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumar.prrp@gmail.com)
-[![Portfolio — portfolio.19062002.xyz](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atlas.19062002.xyz)
+[![Portfolio — portfolio.19062002.xyz](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.19062002.xyz/)
 
 <br/>
 
