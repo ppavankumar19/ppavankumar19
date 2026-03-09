@@ -3,7 +3,7 @@
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn"
-  alt="Header banner for Pavan Kumar Ponnuri, AI-Native Software Engineer, Freelancer, and GenAI Builder"
+  alt="Header banner for Pavan Kumar Ponnuri — AI-Native Software Engineer, Freelancer, and GenAI Builder"
 />
 
 <br/>
@@ -15,7 +15,6 @@
 
 <br/><br/>
 
-<!-- FIX: height increased from 80 → 130 so all 3 lines render fully -->
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC"
@@ -35,7 +34,7 @@
 <a href="mailto:pavankumar.prrp@gmail.com">
   <img
     src="https://img.shields.io/badge/💼_AVAILABLE_FOR_FREELANCE-Hire_Me-10B981?style=for-the-badge"
-    alt="Available for freelance, click to email pavankumar.prrp@gmail.com"
+    alt="Available for freelance — click to email pavankumar.prrp@gmail.com"
   />
 </a>
 
@@ -54,7 +53,7 @@
 ```yaml
 name       : Pavan Kumar Ponnuri
 location   : Hyderabad, Telangana, India 🇮🇳
-Education : B.Tech — Computer Science
+education  : B.Tech — Computer Science
 title      : AI-Native Full-Stack Software Engineer & Freelancer
 
 philosophy : "Ship systems that are simple to use, hard to break, and easy to scale."
@@ -66,11 +65,11 @@ domains:
   data      : EDA · ML Pipelines · Decision Trees · Random Forests
 
 currently:
-  building   : Interactive Command-Line Learning Platform
-  designing  : Scalable backend systems & API architectures
-  exploring  : Autonomous AI agents & multi-tool orchestration
-  studying   : Advanced system design & distributed computing
-  Freelancing: Backend APIs, full-stack apps & AI integrations
+  building    : Interactive Command-Line Learning Platform
+  designing   : Scalable backend systems & API architectures
+  exploring   : Autonomous AI agents & multi-tool orchestration
+  studying    : Advanced system design & distributed computing
+  freelancing : Backend APIs, full-stack apps & AI integrations
 ```
 
 > I build backend-heavy, AI-native, full-stack software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
@@ -141,7 +140,7 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge, AI Travel Planner" />
+### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
 
 > **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
 
@@ -180,7 +179,7 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧪_ChemSus-E--Commerce_Platform-3FCF8E?style=for-the-badge" alt="ChemSus project badge, E-Commerce Platform" />
+### <img src="https://img.shields.io/badge/🧪_ChemSus-E--Commerce_Platform-3FCF8E?style=for-the-badge" alt="ChemSus project badge — E-Commerce Platform" />
 
 > **Production e-commerce platform** for ChemSus Technologies Pvt Ltd — with authentication, payments, order tracking, and a full admin dashboard.
 
@@ -217,24 +216,24 @@ currently:
 ```text
                     ┌──────────────────────────────┐
                     │      CLIENT (Browser)        │
-                    │    Vanilla JS + HTML/CSS     │
+                    │     Vanilla JS + HTML/CSS    │
                     └──────────────┬───────────────┘
                                    │ REST API
                                    ▼
                     ┌──────────────────────────────┐
                     │   SERVER (Node.js + Express) │
                     │                              │
-                    │ Routes → Controllers →       │
-                    │ Middleware (Auth, Roles, OTP)│
+                    │  Routes → Controllers →      │
+                    │  Middleware (Auth, Roles, OTP)│
                     └──────┬────────────┬──────────┘
                            │            │
                   ┌────────▼──┐   ┌─────▼──────────┐
-                  │PostgreSQL │   │ Supabase Auth  │
-                  │           │   │                │
-                  │ Products  │   │ Email/Password │
-                  │ Orders    │   │ Google OAuth   │
-                  │ Payments  │   │ Sessions       │
-                  └───────────┘   └────────────────┘
+                  │PostgreSQL │   │ Supabase Auth   │
+                  │           │   │                 │
+                  │ Products  │   │ Email/Password  │
+                  │ Orders    │   │ Google OAuth    │
+                  │ Payments  │   │ Sessions        │
+                  └───────────┘   └─────────────────┘
 ```
 
 </details>
@@ -247,7 +246,7 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧑‍💻_CLI_Academy-Command--Line_Learning-FF6F00?style=for-the-badge" alt="CLI Academy project badge, Command-Line Learning Platform" />
+### <img src="https://img.shields.io/badge/🧑‍💻_CLI_Academy-Command--Line_Learning-FF6F00?style=for-the-badge" alt="CLI Academy project badge — Command-Line Learning Platform" />
 
 > **Interactive learning platform** for mastering Windows, Linux, and Git commands — with browser-based terminals, real-time validation, and progressive learning paths.
 
@@ -268,7 +267,7 @@ currently:
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-brightgreen?style=for-the-badge" alt="CLI Academy status, in active development" />
+  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-brightgreen?style=for-the-badge" alt="CLI Academy status — in active development" />
 </p>
 
 </td>
@@ -281,15 +280,15 @@ currently:
 
 <div align="center">
 
-```
+```text
 ┌───────────────────────────────────────────────────────────────────┐
 │                                                                   │
-│  🧩  Design First       — Architecture before code                │
-│  🔁  Iterate Fast       — Ship MVPs, refine in production         │
-│  🔌  API-Driven         — Every feature starts as an endpoint     │
-│  🤖  AI-Augmented       — LLMs as first-class system components   │
-│  📏  Measure Everything — Logs, metrics, observability by default │
-│  📦  Own the Stack      — Backend to frontend to deployment       │
+│  🧩  Design First       — Architecture before code               │
+│  🔁  Iterate Fast       — Ship MVPs, refine in production        │
+│  🔌  API-Driven         — Every feature starts as an endpoint    │
+│  🤖  AI-Augmented       — LLMs as first-class system components  │
+│  📏  Measure Everything — Logs, metrics, observability by default│
+│  📦  Own the Stack      — Backend to frontend to deployment      │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
 ```
@@ -302,12 +301,11 @@ currently:
 
 <div align="center">
 
-<!-- FIX: added cache_seconds=86400 to both stats cards to reduce rate-limit failures -->
 <a href="https://github.com/ppavankumar19">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&cache_seconds=86400"
-    alt="Pavan Kumar GitHub stats showing commits, pull requests, issues, and contributions"
+    alt="Pavan Kumar GitHub stats — commits, pull requests, issues, and contributions"
   />
 </a>
 <a href="https://github.com/ppavankumar19">
@@ -320,12 +318,11 @@ currently:
 
 <br/><br/>
 
-<!-- FIX: switched from streak-stats.demolab.com → github-readme-streak-stats-eight.vercel.app (demolab server is intermittently down) -->
 <a href="https://github.com/ppavankumar19">
   <img
     width="70%"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"
-    alt="GitHub streak stats showing current streak, longest streak, and contribution history"
+    alt="GitHub streak stats — current streak, longest streak, and contribution history"
   />
 </a>
 
@@ -383,7 +380,7 @@ currently:
 
 <div align="center">
 
-<!-- Generated by .github/workflows/snake.yml — orange snake on purple palette = vehicle trail -->
+<!-- Generated by .github/workflows/snake.yml — orange trail on purple palette -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -391,9 +388,11 @@ currently:
   />
   <img
     src="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-contribution-grid-snake.svg"
-    alt="Contribution road trip — commits riding across the contribution grid as an orange vehicle trail"
+    alt="Contribution road trip — an orange vehicle trail riding across the contribution grid"
   />
 </picture>
+
+<sub>Generated daily by <a href="https://github.com/Platane/snk">Platane/snk</a> — orange trail on the profile's purple palette</sub>
 
 </div>
 
@@ -403,19 +402,19 @@ currently:
 
 <div align="center">
 
-```
+```text
 🏁 START ═══════════════════════════════════════════════ 🏆 DESTINATION
 ║                                                              ║
-║    🚗💨 ───── Backend ───── Full-Stack ───── GenAI ─────►     ║
+║    🚗💨 ───── Backend ───── Full-Stack ───── GenAI ─────►   ║
 ║              Mastery        Products        Agents           ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  1. System Design          2. Scalable Platforms             ║
-║     Distributed systems, backend-heavy web products       ║
+║     Distributed systems       Backend-heavy web products     ║
 ║                                                              ║
 ║  3. AI Agents              4. Freelance Practice             ║
-║     LLM-powered tools       Shipping quality work for clients║
+║     LLM-powered tools         Shipping quality for clients   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -426,11 +425,11 @@ currently:
 
 ## 🤝 Open To
 
-- 💼 **Freelance and contract work** — backend APIs, full-stack platforms, AI integrations.
-- 🏢 **Full-time roles** — backend, full-stack, and AI-native engineering.
-- 🤖 **GenAI collaborations** — agent frameworks and LLM-powered products.
-- 💬 **Technical discussions** — system design, architecture trade-offs, and scaling.
-- 🌍 **Open source** — backend, AI, and developer-tooling projects.
+- 💼 &nbsp; **Freelance and contract work** — backend APIs, full-stack platforms, AI integrations
+- 🏢 &nbsp; **Full-time roles** — backend, full-stack, and AI-native engineering
+- 🤖 &nbsp; **GenAI collaborations** — agent frameworks and LLM-powered products
+- 💬 &nbsp; **Technical discussions** — system design, architecture trade-offs, and scaling
+- 🌍 &nbsp; **Open source** — backend, AI, and developer-tooling projects
 
 <div align="center">
 
@@ -456,7 +455,7 @@ currently:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote banner" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 
 <br/><br/>
 
@@ -471,7 +470,7 @@ currently:
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"
-  alt="Footer wave banner"
+  alt="Footer wave"
 />
 
 </div>
