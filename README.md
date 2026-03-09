@@ -4,11 +4,11 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Engineering+with+intent%2C+not+just+code+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,11 +22,19 @@
 
 <br/>
 
+<!-- ─── Hire Me / Freelance CTA ─── -->
+
+[![Hire Me](https://img.shields.io/badge/💼_AVAILABLE_FOR_FREELANCE-Hire_Me-10B981?style=for-the-badge)](mailto:pavankumar.prrp@gmail.com)
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ppavankumar19&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/ppavankumar19)
 [![Followers](https://img.shields.io/github/followers/ppavankumar19?label=Followers&style=for-the-badge&color=302b63)](https://github.com/ppavankumar19?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ppavankumar19?label=Total%20Stars&style=for-the-badge&color=302b63)](https://github.com/ppavankumar19?tab=repositories)
 
 </div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                              -->
@@ -38,7 +46,7 @@
 name        : Pavan Kumar Ponnuri
 location    : Visakhapatnam, India 🇮🇳
 education   : B.Tech — Computer Science
-title       : AI-Native Software Engineer
+title       : AI-Native Software Engineer & Freelancer
 
 philosophy  : "Ship systems that are simple to use, hard to break, and easy to scale."
 
@@ -49,17 +57,60 @@ domains:
   data      : EDA • ML Pipelines • Decision Trees • Random Forests
 
 currently:
-  🔨 building   : Interactive Command-Line Learning Platform
-  📐 designing  : Scalable backend systems & API architectures
-  🤖 exploring  : Autonomous AI agents & multi-tool orchestration
-  📖 studying   : Advanced system design & distributed computing
+  🔨 building    : Interactive Command-Line Learning Platform
+  📐 designing   : Scalable backend systems & API architectures
+  🤖 exploring   : Autonomous AI agents & multi-tool orchestration
+  📖 studying    : Advanced system design & distributed computing
+  💼 freelancing : Backend APIs, full-stack apps & AI integrations
 ```
 
 <br/>
 
-> I'm a CS graduate who builds **backend-heavy, AI-native software**. My work sits at the intersection of robust system design and intelligent automation — from production-grade e-commerce platforms to AI travel planners powered by LLMs. I've shipped real products, worked with real datasets through **Data Analytics & Data Science internships** (EDA, dashboards, ML models), and I believe the best way to learn is to **build and ship**.
+> I'm a CS graduate who builds **backend-heavy, AI-native software** — and I do it for clients too. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I've shipped real products, worked with real datasets through **Data Analytics & Data Science internships** (EDA, dashboards, ML models), and I take the same production-quality approach to every freelance project I deliver. **If you need it built right, let's talk.**
 
 <br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FREELANCE SERVICES                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💼 Freelance Services
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img width="40" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Backend" /><br/>
+      <b>Backend APIs</b><br/>
+      <sub>REST & GraphQL APIs,<br/>microservices, auth systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <img width="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="Full-Stack" /><br/>
+      <b>Full-Stack Apps</b><br/>
+      <sub>End-to-end web platforms<br/>with admin dashboards</sub>
+    </td>
+    <td align="center" width="25%">
+      <img width="40" src="https://cdn.simpleicons.org/openai/412991" alt="GenAI" /><br/>
+      <b>AI Integrations</b><br/>
+      <sub>LLM-powered features,<br/>chatbots, agent systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <img width="40" src="https://cdn.simpleicons.org/postgresql/316192" alt="Data" /><br/>
+      <b>Data & Analytics</b><br/>
+      <sub>Dashboards, EDA,<br/>ML model pipelines</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="mailto:pavankumar.prrp@gmail.com"><img src="https://img.shields.io/badge/📩_Discuss_a_Project-Let's_Talk-7C3AED?style=for-the-badge" /></a>
+
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                              -->
@@ -79,7 +130,7 @@ currently:
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                         -->
@@ -227,7 +278,7 @@ currently:
 </tr>
 </table>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   ENGINEERING PRINCIPLES                      -->
@@ -252,7 +303,7 @@ currently:
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      GITHUB METRICS                           -->
@@ -262,12 +313,16 @@ currently:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" />
+<!-- ─── Stats & Languages ─── -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
+<!-- ─── Streak Stats (FIXED: demolab.com — herokuapp is dead) ─── -->
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -289,19 +344,16 @@ currently:
 
 <br/>
 
-<!-- ─── Snake Animation ─── -->
+<!-- ─── Profile Summary Cards (replaces snake — no workflow needed) ─── -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-snake-dark.svg" />
-  </picture>
-
-  <sub>⬆️ Set up via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — eats your contribution graph!</sub>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppavankumar19&theme=tokyonight" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppavankumar19&theme=tokyonight" />
+  <br/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppavankumar19&theme=tokyonight" />
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      CURRENT FOCUS                            -->
@@ -312,22 +364,22 @@ currently:
 <div align="center">
 
 ```
-            ┌──────────────────┐
-            │   Backend Mastery │ ← System Design, Distributed Systems
-            └────────┬─────────┘
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-  ┌───────────┐ ┌──────────┐ ┌──────────────┐
-  │ Full-Stack│ │  GenAI   │ │  Developer   │
-  │ Scalable  │ │  Agent   │ │  Experience  │
-  │ Products  │ │ Systems  │ │  & Tooling   │
-  └───────────┘ └──────────┘ └──────────────┘
+            ┌──────────────────────┐
+            │   Backend Mastery    │ ← System Design, Distributed Systems
+            └──────────┬───────────┘
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+  ┌───────────┐  ┌──────────┐  ┌──────────────┐
+  │ Full-Stack│  │  GenAI   │  │  Freelance   │
+  │ Scalable  │  │  Agent   │  │  Engineering │
+  │ Products  │  │ Systems  │  │  Practice    │
+  └───────────┘  └──────────┘  └──────────────┘
 ```
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      OPEN TO                                  -->
@@ -335,12 +387,22 @@ currently:
 
 ## 🤝 Open To
 
+- 💼 &nbsp; **Freelance & contract work** — Backend APIs, full-stack platforms, AI integrations  
 - 🏢 &nbsp; **Full-time roles** — Backend / Full-Stack / AI-Native Engineering  
 - 🤖 &nbsp; **GenAI collaborations** — Agent frameworks, LLM-powered products  
 - 💬 &nbsp; **Technical discussions** — System design, architecture trade-offs, scaling  
 - 🌍 &nbsp; **Open source** — If my projects interest you, let's build together  
 
+<div align="center">
 <br/>
+
+<a href="mailto:pavankumar.prrp@gmail.com"><img src="https://img.shields.io/badge/📩_Got_a_project%3F-Let's_Build_Together-10B981?style=for-the-badge" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/pavankumar19"><img src="https://img.shields.io/badge/💬_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                -->
