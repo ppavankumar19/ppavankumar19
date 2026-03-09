@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/🧠_AI--Native-Engineer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Engineer badge" />
-<img src="https://img.shields.io/badge/🤖_GenAI-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" alt="GenAI Builder badge" />
+<img src="https://img.shields.io/badge/🔮_GenAI-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" alt="GenAI Builder badge" />
 <img src="https://img.shields.io/badge/⚙️_Backend-Architect-6d28d9?style=for-the-badge&labelColor=0d1117" alt="Backend Architect badge" />
 <img src="https://img.shields.io/badge/🌐_Full--Stack-Developer-302b63?style=for-the-badge&labelColor=0d1117" alt="Full-Stack Developer badge" />
 
@@ -52,12 +52,12 @@
 ## `> whoami`
 
 ```yaml
-name        : Pavan Kumar Ponnuri
-location    : Hyderabad, Telangana, India 🇮🇳
-education   : B.Tech — Computer Science
-title       : AI-Native Full-Stack Software Engineer & Freelancer
+name       : Pavan Kumar Ponnuri
+location   : Hyderabad, Telangana, India 🇮🇳
+Education : B.Tech — Computer Science
+title      : AI-Native Full-Stack Software Engineer & Freelancer
 
-philosophy  : "Ship systems that are simple to use, hard to break, and easy to scale."
+philosophy : "Ship systems that are simple to use, hard to break, and easy to scale."
 
 domains:
   primary   : Backend Architecture · Distributed Systems · REST & GraphQL APIs
@@ -66,11 +66,11 @@ domains:
   data      : EDA · ML Pipelines · Decision Trees · Random Forests
 
 currently:
-  building    : Interactive Command-Line Learning Platform
-  designing   : Scalable backend systems & API architectures
-  exploring   : Autonomous AI agents & multi-tool orchestration
-  studying    : Advanced system design & distributed computing
-  freelancing : Backend APIs, full-stack apps & AI integrations
+  building   : Interactive Command-Line Learning Platform
+  designing  : Scalable backend systems & API architectures
+  exploring  : Autonomous AI agents & multi-tool orchestration
+  studying   : Advanced system design & distributed computing
+  Freelancing: Backend APIs, full-stack apps & AI integrations
 ```
 
 > I build backend-heavy, AI-native, full-stack software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
@@ -281,17 +281,17 @@ currently:
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  🧩  Design First       — Architecture before code               │
-│  🔁  Iterate Fast       — Ship MVPs, refine in production        │
-│  🔌  API-Driven         — Every feature starts as an endpoint    │
-│  🤖  AI-Augmented       — LLMs as first-class system components  │
-│  📏  Measure Everything — Logs, metrics, observability by default│
-│  📦  Own the Stack      — Backend to frontend to deployment      │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+```
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  🧩  Design First       — Architecture before code                │
+│  🔁  Iterate Fast       — Ship MVPs, refine in production         │
+│  🔌  API-Driven         — Every feature starts as an endpoint     │
+│  🤖  AI-Augmented       — LLMs as first-class system components   │
+│  📏  Measure Everything — Logs, metrics, observability by default │
+│  📦  Own the Stack      — Backend to frontend to deployment       │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -403,21 +403,21 @@ currently:
 
 <div align="center">
 
-```text
-  🏁 START ═══════════════════════════════════════════════ 🏆 DESTINATION
-  ║                                                              ║
-  ║    🚗💨 ───── Backend ───── Full-Stack ───── GenAI ─────►   ║
-  ║              Mastery        Products       Agents            ║
-  ║                                                              ║
-  ╠══════════════════════════════════════════════════════════════╣
-  ║                                                              ║
-  ║  1. System Design        2. Scalable Platforms              ║
-  ║     Distributed systems     Backend-heavy web products      ║
-  ║                                                              ║
-  ║  3. AI Agents           4. Freelance Practice               ║
-  ║     LLM-powered tools      Shipping quality work for clients║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+```
+🏁 START ═══════════════════════════════════════════════ 🏆 DESTINATION
+║                                                              ║
+║    🚗💨 ───── Backend ───── Full-Stack ───── GenAI ─────►     ║
+║              Mastery        Products        Agents           ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  1. System Design          2. Scalable Platforms             ║
+║     Distributed systems, backend-heavy web products       ║
+║                                                              ║
+║  3. AI Agents              4. Freelance Practice             ║
+║     LLM-powered tools       Shipping quality work for clients║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
