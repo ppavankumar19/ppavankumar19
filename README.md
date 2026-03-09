@@ -11,13 +11,15 @@
 <img src="https://img.shields.io/badge/🧠_AI--Native-Engineer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Engineer badge" />
 <img src="https://img.shields.io/badge/🤖_GenAI-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" alt="GenAI Builder badge" />
 <img src="https://img.shields.io/badge/⚙️_Backend-Architect-6d28d9?style=for-the-badge&labelColor=0d1117" alt="Backend Architect badge" />
+<img src="https://img.shields.io/badge/🌐_Full--Stack-Developer-302b63?style=for-the-badge&labelColor=0d1117" alt="Full-Stack Developer badge" />
 
 <br/><br/>
 
+<!-- FIX: height increased from 80 → 130 so all 3 lines render fully -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC"
-    alt="Animated typing banner describing backend systems, AI-native products, and freelance availability"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC"
+    alt="Animated typing: Designing backend systems that scale, Shipping AI-native products end to end, Available for freelance and contract work"
   />
 </a>
 
@@ -53,7 +55,7 @@
 name        : Pavan Kumar Ponnuri
 location    : Hyderabad, Telangana, India 🇮🇳
 education   : B.Tech — Computer Science
-title       : AI-Native Software Engineer & Freelancer
+title       : AI-Native Full-Stack Software Engineer & Freelancer
 
 philosophy  : "Ship systems that are simple to use, hard to break, and easy to scale."
 
@@ -71,7 +73,7 @@ currently:
   freelancing : Backend APIs, full-stack apps & AI integrations
 ```
 
-> I build backend-heavy, AI-native software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
+> I build backend-heavy, AI-native, full-stack software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
 
 ---
 
@@ -124,6 +126,7 @@ currently:
 |:---|:---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Full Stack** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
 | **AI · ML · GenAI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
@@ -299,27 +302,29 @@ currently:
 
 <div align="center">
 
+<!-- FIX: added cache_seconds=86400 to both stats cards to reduce rate-limit failures -->
 <a href="https://github.com/ppavankumar19">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&cache_seconds=86400"
     alt="Pavan Kumar GitHub stats showing commits, pull requests, issues, and contributions"
   />
 </a>
 <a href="https://github.com/ppavankumar19">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400"
     alt="Most used programming languages across repositories"
   />
 </a>
 
 <br/><br/>
 
+<!-- FIX: switched from streak-stats.demolab.com → github-readme-streak-stats-eight.vercel.app (demolab server is intermittently down) -->
 <a href="https://github.com/ppavankumar19">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"
     alt="GitHub streak stats showing current streak, longest streak, and contribution history"
   />
 </a>
@@ -369,6 +374,26 @@ currently:
     alt="Detailed profile summary with contribution timeline and activity"
   />
 </a>
+
+</div>
+
+---
+
+## 🚗 Contribution Road Trip
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml — orange snake on purple palette = vehicle trail -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ppavankumar19/ppavankumar19/output/github-contribution-grid-snake.svg"
+    alt="Contribution road trip — commits riding across the contribution grid as an orange vehicle trail"
+  />
+</picture>
 
 </div>
 
