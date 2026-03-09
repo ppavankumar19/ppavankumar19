@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn" alt="Header banner — Pavan Kumar Ponnuri, AI-Native Software Engineer, Freelancer, GenAI Builder" />
-
-<!-- ─── AI-Native Branding Mark ─── -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn"
+  alt="Header banner for Pavan Kumar Ponnuri, AI-Native Software Engineer, Freelancer, and GenAI Builder"
+/>
 
 <br/>
 
@@ -16,14 +14,14 @@
 
 <br/><br/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC" alt="Animated typing: Designing backend systems that scale, Shipping AI-native products end to end, Available for freelance and contract work" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Designing+backend+systems+that+scale+%F0%9F%9A%80;Shipping+AI-native+products+end+to+end+%F0%9F%A4%96;Available+for+freelance+%26+contract+work+%F0%9F%92%BC"
+    alt="Animated typing banner describing backend systems, AI-native products, and freelance availability"
+  />
 </a>
 
 <br/>
-
-<!-- ─── Social & Profile Badges ─── -->
 
 [![LinkedIn — Pavan Kumar](https://img.shields.io/badge/-Pavan_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankumar19)
 [![X — @19_pavankumar](https://img.shields.io/badge/-@19__pavankumar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/19_pavankumar)
@@ -32,9 +30,12 @@
 
 <br/>
 
-<!-- ─── Freelance CTA ─── -->
-
-<a href="mailto:pavankumar.prrp@gmail.com"><img src="https://img.shields.io/badge/💼_AVAILABLE_FOR_FREELANCE-Hire_Me-10B981?style=for-the-badge" alt="Available for freelance — click to email pavankumar.prrp@gmail.com" /></a>
+<a href="mailto:pavankumar.prrp@gmail.com">
+  <img
+    src="https://img.shields.io/badge/💼_AVAILABLE_FOR_FREELANCE-Hire_Me-10B981?style=for-the-badge"
+    alt="Available for freelance, click to email pavankumar.prrp@gmail.com"
+  />
+</a>
 
 <br/><br/>
 
@@ -46,15 +47,11 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## `> whoami`
 
 ```yaml
 name        : Pavan Kumar Ponnuri
-location    : Visakhapatnam, India 🇮🇳
+location    : Hyderabad, Telangana, India 🇮🇳
 education   : B.Tech — Computer Science
 title       : AI-Native Software Engineer & Freelancer
 
@@ -74,15 +71,9 @@ currently:
   freelancing : Backend APIs, full-stack apps & AI integrations
 ```
 
-<br/>
-
-> I'm a CS graduate who builds **backend-heavy, AI-native software** — and I do it for clients too. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I've shipped real products, worked with real datasets through **Data Analytics & Data Science internships** (EDA, dashboards, ML models), and I take the same production-quality approach to every freelance project I deliver. **If you need it built right, let's talk.**
+> I build backend-heavy, AI-native software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FREELANCE SERVICES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💼 Freelance Services
 
@@ -114,15 +105,16 @@ currently:
 
 <br/>
 
-<a href="mailto:pavankumar.prrp@gmail.com"><img src="https://img.shields.io/badge/📩_Discuss_a_Project-Let's_Talk-7C3AED?style=for-the-badge" alt="Email pavankumar.prrp@gmail.com to discuss a project" /></a>
+<a href="mailto:pavankumar.prrp@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📩_Discuss_a_Project-Let's_Talk-7C3AED?style=for-the-badge"
+    alt="Email pavankumar.prrp@gmail.com to discuss a project"
+  />
+</a>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧰 Tech Arsenal
 
@@ -140,32 +132,26 @@ currently:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🏗️ Featured Projects
-
-<!-- ─── Project 1: Atlas ─── -->
 
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas — AI Travel Planner" />
+### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge, AI Travel Planner" />
 
-> **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports beautiful PDFs & calendar files.
+> **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
 
 <br/>
 
 **What makes it special:**
 
-🤖 &nbsp; **Groq Llama 3.3 70B** generates day-by-day itineraries with restaurant & activity picks  
-🏠 &nbsp; **Live Airbnb listings** via MCP server — real prices, real availability  
-🗺️ &nbsp; **Interactive Leaflet.js maps** with CartoDB Voyager tiles for every stop  
-💱 &nbsp; **150+ currencies** via Frankfurter API — see every price in your home currency  
-📄 &nbsp; **PDF & .ics export** — cover page, table of contents, day plans, calendar sync  
-♿ &nbsp; **Accessibility-first** — wheelchair, elevator, limited-walking filters built in
+🤖 &nbsp; **Groq Llama 3.3 70B** generates day-by-day itineraries with restaurant and activity picks  
+🏠 &nbsp; **Live Airbnb listings** via MCP server for real prices and availability  
+🗺️ &nbsp; **Interactive Leaflet.js maps** with every stop visualized  
+💱 &nbsp; **150+ currencies** via Frankfurter API  
+📄 &nbsp; **PDF and .ics export** for sharing and calendar sync  
+♿ &nbsp; **Accessibility-first filters** for wheelchair, elevator, and limited-walking needs
 
 <br/>
 
@@ -174,34 +160,36 @@ currently:
 <br/>
 
 <p>
-  <a href="https://atlas.19062002.xyz"><img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Atlas-7C3AED?style=for-the-badge" alt="Visit Atlas live demo" /></a>
+  <a href="https://atlas.19062002.xyz">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Atlas-7C3AED?style=for-the-badge" alt="Visit Atlas live demo" />
+  </a>
   &nbsp;
-  <a href="https://github.com/ppavankumar19/atlas-travel-planner"><img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" /></a>
+  <a href="https://github.com/ppavankumar19/atlas-travel-planner">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" />
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<!-- ─── Project 2: ChemSus ─── -->
-
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧪_ChemSus-E--Commerce_Platform-3FCF8E?style=for-the-badge" alt="ChemSus — E-Commerce Platform" />
+### <img src="https://img.shields.io/badge/🧪_ChemSus-E--Commerce_Platform-3FCF8E?style=for-the-badge" alt="ChemSus project badge, E-Commerce Platform" />
 
-> **Production e-commerce platform** for ChemSus Technologies Pvt Ltd — a sustainable biochemicals company. Full auth, payments, order tracking & admin dashboard.
+> **Production e-commerce platform** for ChemSus Technologies Pvt Ltd — with authentication, payments, order tracking, and a full admin dashboard.
 
 <br/>
 
 **What makes it special:**
 
-🔐 &nbsp; **Supabase Auth** — Email/Password + Google OAuth with role-based access  
-🛍️ &nbsp; Cart, buy-now, OTP-verified checkout & UPI payment integration  
+🔐 &nbsp; **Supabase Auth** — email/password plus Google OAuth with role-based access  
+🛍️ &nbsp; Cart, buy-now, OTP-verified checkout, and UPI payment integration  
 📦 &nbsp; Item-level delivery tracking with real-time status updates  
-💬 &nbsp; In-order messaging system — customers query, admin replies  
-🛠️ &nbsp; Full admin dashboard — products, orders, payments, customers & user management
+💬 &nbsp; In-order messaging between customers and admin  
+🛠️ &nbsp; Full admin dashboard for products, orders, payments, customers, and users
 
 <br/>
 
@@ -210,36 +198,40 @@ currently:
 <br/>
 
 <p>
-  <a href="https://chemsus-technologies-pvt-ltd.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_ChemSus-3FCF8E?style=for-the-badge" alt="Visit ChemSus live demo" /></a>
+  <a href="https://chemsus-technologies-pvt-ltd.onrender.com">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_ChemSus-3FCF8E?style=for-the-badge" alt="Visit ChemSus live demo" />
+  </a>
   &nbsp;
-  <a href="https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD"><img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="ChemSus source code on GitHub" /></a>
+  <a href="https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="ChemSus source code on GitHub" />
+  </a>
 </p>
 
 <details>
 <summary><b>📐 System Architecture</b></summary>
 <br/>
 
-```
+```text
                     ┌──────────────────────────────┐
-                    │     CLIENT  (Browser)        │
-                    │     Vanilla JS + HTML/CSS     │
+                    │      CLIENT (Browser)        │
+                    │    Vanilla JS + HTML/CSS     │
                     └──────────────┬───────────────┘
                                    │ REST API
                                    ▼
                     ┌──────────────────────────────┐
-                    │   SERVER  (Node.js + Express)│
+                    │   SERVER (Node.js + Express) │
                     │                              │
-                    │  Routes → Controllers →      │
-                    │  Middleware (Auth, Roles, OTP)│
+                    │ Routes → Controllers →       │
+                    │ Middleware (Auth, Roles, OTP)│
                     └──────┬────────────┬──────────┘
                            │            │
                   ┌────────▼──┐   ┌─────▼──────────┐
-                  │PostgreSQL │   │ Supabase Auth   │
-                  │           │   │                 │
-                  │ Products  │   │ Email/Password  │
-                  │ Orders    │   │ Google OAuth    │
-                  │ Payments  │   │ Sessions        │
-                  └───────────┘   └─────────────────┘
+                  │PostgreSQL │   │ Supabase Auth  │
+                  │           │   │                │
+                  │ Products  │   │ Email/Password │
+                  │ Orders    │   │ Google OAuth   │
+                  │ Payments  │   │ Sessions       │
+                  └───────────┘   └────────────────┘
 ```
 
 </details>
@@ -248,25 +240,23 @@ currently:
 </tr>
 </table>
 
-<!-- ─── Project 3: CLI Academy ─── -->
-
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧑‍💻_CLI_Academy-Command--Line_Learning-FF6F00?style=for-the-badge" alt="CLI Academy — Command-Line Learning Platform" />
+### <img src="https://img.shields.io/badge/🧑‍💻_CLI_Academy-Command--Line_Learning-FF6F00?style=for-the-badge" alt="CLI Academy project badge, Command-Line Learning Platform" />
 
-> **Interactive learning platform** for mastering Windows, Linux & Git commands — browser-based terminals, real-time validation, and progressive difficulty. Built for developers who learn by doing.
+> **Interactive learning platform** for mastering Windows, Linux, and Git commands — with browser-based terminals, real-time validation, and progressive learning paths.
 
 <br/>
 
 **What makes it special:**
 
-🎬 &nbsp; Terminal demos powered by **Asciinema** — watch, then practice  
+🎬 &nbsp; Terminal demos powered by **Asciinema**  
 🖥️ &nbsp; Browser-based command execution via **WASM terminal**  
-🧪 &nbsp; Real-time command validation & contextual feedback  
-📚 &nbsp; Progressive learning paths — beginner → intermediate → advanced  
-⚙️ &nbsp; Backend-heavy educational architecture designed to scale
+🧪 &nbsp; Real-time validation with contextual feedback  
+📚 &nbsp; Progressive learning paths from beginner to advanced  
+⚙️ &nbsp; Backend-heavy architecture designed to scale
 
 <br/>
 
@@ -275,7 +265,7 @@ currently:
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-brightgreen?style=for-the-badge" alt="Status: In Active Development" />
+  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-brightgreen?style=for-the-badge" alt="CLI Academy status, in active development" />
 </p>
 
 </td>
@@ -284,23 +274,19 @@ currently:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ENGINEERING PRINCIPLES                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💡 How I Engineer
 
 <div align="center">
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│  🧩  Design First       — Architecture before code              │
-│  🔁  Iterate Fast       — Ship MVPs, refine in production       │
-│  🔌  API-Driven         — Every feature starts as an endpoint   │
-│  🤖  AI-Augmented       — LLMs as first-class system components │
+│  🧩  Design First       — Architecture before code               │
+│  🔁  Iterate Fast       — Ship MVPs, refine in production        │
+│  🔌  API-Driven         — Every feature starts as an endpoint    │
+│  🤖  AI-Augmented       — LLMs as first-class system components  │
 │  📏  Measure Everything — Logs, metrics, observability by default│
-│  📦  Own the Stack      — Backend to frontend to deployment     │
+│  📦  Own the Stack      — Backend to frontend to deployment      │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -309,63 +295,90 @@ currently:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB METRICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Stats Card — using custom Vercel instance fallback param -->
 <a href="https://github.com/ppavankumar19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" alt="Pavan Kumar's GitHub stats — stars, commits, PRs, issues, and contributions" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ppavankumar19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true"
+    alt="Pavan Kumar GitHub stats showing commits, pull requests, issues, and contributions"
+  />
 </a>
 <a href="https://github.com/ppavankumar19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Most used programming languages by repo" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppavankumar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"
+    alt="Most used programming languages across repositories"
+  />
 </a>
 
 <br/><br/>
 
-<!-- Streak Stats (demolab.com — the only working host) -->
 <a href="https://github.com/ppavankumar19">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak stats — current streak, longest streak, total contributions" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=ppavankumar19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e"
+    alt="GitHub streak stats showing current streak, longest streak, and contribution history"
+  />
 </a>
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ppavankumar19&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" alt="GitHub profile trophies" />
+<a href="https://github.com/ppavankumar19">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ppavankumar19&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=7"
+    alt="GitHub profile trophies"
+  />
+</a>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ppavankumar19&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=302b63" alt="Contribution activity graph over the past year" />
+<a href="https://github.com/ppavankumar19">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ppavankumar19&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=302b63"
+    alt="Contribution activity graph over the past year"
+  />
+</a>
 
 <br/><br/>
 
-<!-- Profile Summary Cards (repos-per-language, most-commit-language, profile detail) -->
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppavankumar19&theme=tokyonight" alt="Repos per language breakdown" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppavankumar19&theme=tokyonight" alt="Most commits per language" />
+<a href="https://github.com/ppavankumar19">
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ppavankumar19&theme=tokyonight"
+    alt="Repositories per language breakdown"
+  />
+</a>
+<a href="https://github.com/ppavankumar19">
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ppavankumar19&theme=tokyonight"
+    alt="Most commits per language summary"
+  />
+</a>
 
 <br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppavankumar19&theme=tokyonight" alt="Detailed profile summary — contribution timeline and activity" />
+<a href="https://github.com/ppavankumar19">
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppavankumar19&theme=tokyonight"
+    alt="Detailed profile summary with contribution timeline and activity"
+  />
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WHAT I'M BUILDING TOWARDS                   -->
-<!--          🚗 "Road Trip" metaphor — replaces old snake         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🎯 What I'm Building Towards
 
 <div align="center">
 
-```
+```text
   🏁 START ═══════════════════════════════════════════════ 🏆 DESTINATION
   ║                                                              ║
   ║    🚗💨 ───── Backend ───── Full-Stack ───── GenAI ─────►   ║
@@ -373,64 +386,67 @@ currently:
   ║                                                              ║
   ╠══════════════════════════════════════════════════════════════╣
   ║                                                              ║
-  ║  📍 MILE 1          📍 MILE 2          📍 MILE 3            ║
-  ║  System Design &    Scalable Web       AI Agent Systems     ║
-  ║  Distributed        Platforms with     & LLM-Powered        ║
-  ║  Systems            Admin Dashboards   Automation           ║
+  ║  1. System Design        2. Scalable Platforms              ║
+  ║     Distributed systems     Backend-heavy web products      ║
   ║                                                              ║
-  ║                     📍 MILE 4                                ║
-  ║                     Freelance Engineering Practice           ║
-  ║                     — shipping quality work for clients      ║
+  ║  3. AI Agents           4. Freelance Practice               ║
+  ║     LLM-powered tools      Shipping quality work for clients║
   ║                                                              ║
-  ═══════════════════════════════════════════════════════════════
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      OPEN TO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🤝 Open To
 
-- 💼 &nbsp; **Freelance & contract work** — Backend APIs, full-stack platforms, AI integrations  
-- 🏢 &nbsp; **Full-time roles** — Backend / Full-Stack / AI-Native Engineering  
-- 🤖 &nbsp; **GenAI collaborations** — Agent frameworks, LLM-powered products  
-- 💬 &nbsp; **Technical discussions** — System design, architecture trade-offs, scaling  
-- 🌍 &nbsp; **Open source** — If my projects interest you, let's build together  
+- 💼 **Freelance and contract work** — backend APIs, full-stack platforms, AI integrations.
+- 🏢 **Full-time roles** — backend, full-stack, and AI-native engineering.
+- 🤖 **GenAI collaborations** — agent frameworks and LLM-powered products.
+- 💬 **Technical discussions** — system design, architecture trade-offs, and scaling.
+- 🌍 **Open source** — backend, AI, and developer-tooling projects.
 
 <div align="center">
 
 <br/>
 
-<a href="mailto:pavankumar.prrp@gmail.com"><img src="https://img.shields.io/badge/📩_Got_a_project%3F-Let's_Build_Together-10B981?style=for-the-badge" alt="Email pavankumar.prrp@gmail.com to start a project" /></a>
+<a href="mailto:pavankumar.prrp@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📩_Got_a_project%3F-Let's_Build_Together-10B981?style=for-the-badge"
+    alt="Email pavankumar.prrp@gmail.com to start a project"
+  />
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/pavankumar19"><img src="https://img.shields.io/badge/💬_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://linkedin.com/in/pavankumar19">
+  <img
+    src="https://img.shields.io/badge/💬_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with Pavan Kumar on LinkedIn"
+  />
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote banner" />
 
 <br/><br/>
 
-```
+```text
 ⚡ "Ship systems that are simple to use, hard to break, and easy to scale."
 ```
 
-<sub>If something here caught your eye, a ⭐ on my repos goes a long way — thanks for stopping by!</sub>
+<sub>If something here caught your eye, a ⭐ on my repos goes a long way — thanks for stopping by.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer wave" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"
+  alt="Footer wave banner"
+/>
 
 </div>
