@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🧠_AI--Native-Engineer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Software Developer badge" />
+<img src="https://img.shields.io/badge/🧠_AI--Native-Developer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Developer badge" />
 <img src="https://img.shields.io/badge/🔮_GenAI-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" alt="GenAI Builder badge" />
 <img src="https://img.shields.io/badge/⚙️_Backend-Architect-6d28d9?style=for-the-badge&labelColor=0d1117" alt="Backend Architect badge" />
 <img src="https://img.shields.io/badge/🌐_Full--Stack-Developer-302b63?style=for-the-badge&labelColor=0d1117" alt="Full-Stack Developer badge" />
@@ -92,7 +92,7 @@ currently:
       <sub>End-to-end web platforms<br/>with admin dashboards</sub>
     </td>
     <td align="center" width="25%">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI icon representing AI integration services" /><br/>
+      <img height="36" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI icon representing AI integration services" /><br/>
       <b>AI Integrations</b><br/>
       <sub>LLM-powered features,<br/>chatbots, agent systems</sub>
     </td>
