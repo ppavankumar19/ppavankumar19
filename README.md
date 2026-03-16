@@ -3,12 +3,12 @@
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20Ponnuri&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=AI-Native%20Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=56&descColor=c4b5fd&animation=fadeIn"
-  alt="Header banner for Pavan Kumar Ponnuri — AI-Native Software Engineer, Freelancer, and GenAI Builder"
+  alt="Header banner for Pavan Kumar Ponnuri — AI-Native Software Developer, Freelancer, and GenAI Builder"
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🧠_AI--Native-Engineer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Engineer badge" />
+<img src="https://img.shields.io/badge/🧠_AI--Native-Engineer-7C3AED?style=for-the-badge&labelColor=0d1117" alt="AI-Native Software Developer badge" />
 <img src="https://img.shields.io/badge/🔮_GenAI-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" alt="GenAI Builder badge" />
 <img src="https://img.shields.io/badge/⚙️_Backend-Architect-6d28d9?style=for-the-badge&labelColor=0d1117" alt="Backend Architect badge" />
 <img src="https://img.shields.io/badge/🌐_Full--Stack-Developer-302b63?style=for-the-badge&labelColor=0d1117" alt="Full-Stack Developer badge" />
@@ -52,9 +52,9 @@
 
 ```yaml
 name       : Pavan Kumar Ponnuri
-location   : Hyderabad, Telangana, India 🇮🇳
+location   : Visakhapatnam, Andhra Pradesh, India 🇮🇳
 education  : B.Tech — Computer Science
-title      : AI-Native Full-Stack Software Engineer & Freelancer
+title      : AI-Native Full-Stack Software Developer & Freelancer
 
 philosophy : "Ship systems that are simple to use, hard to break, and easy to scale."
 
