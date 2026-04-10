@@ -212,7 +212,7 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🎙️_VoiceIQ-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VoiceIQ (VaakAI) project badge — AI Student Speech Analyzer" />
+### <img src="https://img.shields.io/badge/🎙️_VaakAI-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VaakAI project badge — AI Student Speech Analyzer" />
 
 > **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL to get richer feedback than any interviewer could give in real-time.
 
@@ -336,6 +336,10 @@ currently:
 <br/>
 
 <p>
+  <a href="https://linuxdojo.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_LinuxDojo-FF6F00?style=for-the-badge" alt="Visit LinuxDojo live demo" />
+  </a>
+  &nbsp;
   <a href="https://github.com/ppavankumar19/Linuxdojo">
     <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="LinuxDojo source code on GitHub" />
   </a>
