@@ -65,7 +65,7 @@ domains:
   data      : EDA · ML Pipelines · Decision Trees · Random Forests
 
 currently:
-  building    : Interactive Command-Line Learning Platform
+  building    : OpenClaw — Multi-Agent AI Social Media Automation System
   designing   : Scalable backend systems & API architectures
   exploring   : Autonomous AI agents & multi-tool orchestration
   studying    : Advanced system design & distributed computing
@@ -140,6 +140,39 @@ currently:
 <tr>
 <td width="100%">
 
+### <img src="https://img.shields.io/badge/🤖_OpenClaw-Multi--Agent_AI_System-7C3AED?style=for-the-badge" alt="OpenClaw project badge — Multi-Agent AI Social Media Automation System" />
+
+> **Production-grade virtual AI intern** — a multi-agent system that researches trends, generates platform-native content (text + images), and publishes to Instagram, Twitter/X, LinkedIn, Facebook, and YouTube — all controlled via Telegram with human-in-the-loop approval.
+
+<br/>
+
+**What makes it special:**
+
+🧠 &nbsp; **Multi-agent architecture** — dedicated agent per platform, each with its own content types, generators, and publishing adapter
+⚡ &nbsp; **Cascading LLM pipeline** — Cerebras (Qwen-3 235B) → Groq (LLaMA 70B) → NVIDIA (Nemotron 120B) — fastest available model auto-selected at runtime
+📸 &nbsp; **Live post preview** via Playwright screenshot rendered before any content goes live
+✅ &nbsp; **Human-in-the-loop** — approve, reject, reschedule, or change tone via Telegram before publishing
+⏰ &nbsp; **Morning batch (8 AM)** — trend research → 3 drafted posts → sent to Telegram; evening performance report at 8 PM
+📧 &nbsp; **Bulk HR offer letters** — Excel upload → A4 PDF generation → SMTP email dispatch
+
+<br/>
+
+`Python` · `Async` · `python-telegram-bot` · `APScheduler` · `Playwright` · `Cerebras` · `Groq` · `NVIDIA NIM` · `Gemini Flash` · `Pollinations.ai`
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-🟡_In_Active_Development-F59E0B?style=for-the-badge" alt="OpenClaw status — in active development" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
 ### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
 
 > **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
@@ -168,6 +201,41 @@ currently:
   &nbsp;
   <a href="https://github.com/ppavankumar19/atlas-travel-planner">
     <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### <img src="https://img.shields.io/badge/🎙️_VoiceIQ-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VoiceIQ (VaakAI) project badge — AI Student Speech Analyzer" />
+
+> **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL to get richer feedback than any interviewer could give in real-time.
+
+<br/>
+
+**What makes it special:**
+
+🎬 &nbsp; **Three input modes** — video upload, audio upload, or any public YouTube URL (auto-downloaded via yt-dlp)
+📝 &nbsp; **Timestamped transcription** via Sarvam.ai `saarika:v2.5` — filler words highlighted in red, technical terms in blue, click any line to seek in the recording
+📊 &nbsp; **9-metric AI analysis** via Groq Llama 3.1 70B — pace (WPM), grammar score, confidence, vocabulary richness, filler detection, topic segmentation, and more
+📡 &nbsp; **Visual dashboard** — Communication Radar, Filler Word Bar Chart, Speech Pace Timeline (Chart.js)
+💬 &nbsp; **RAG Q&A panel** — ask anything about the recording; ChromaDB + Groq with timestamp source chips to seek exact moments
+🌏 &nbsp; **Multi-language support** — Indian English, Hindi, Telugu, Tamil, Kannada, and Marathi
+
+<br/>
+
+`Python` · `FastAPI` · `Groq` · `Sarvam.ai` · `ChromaDB` · `Chart.js` · `FFmpeg` · `yt-dlp` · `PostgreSQL`
+
+<br/>
+
+<p>
+  <a href="https://github.com/ppavankumar19/VaakAI">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="VaakAI source code on GitHub" />
   </a>
 </p>
 
@@ -246,28 +314,33 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🧑‍💻_CLI_Academy-Command--Line_Learning-FF6F00?style=for-the-badge" alt="CLI Academy project badge — Command-Line Learning Platform" />
+### <img src="https://img.shields.io/badge/🐧_LinuxDojo-Command--Line_Learning-FF6F00?style=for-the-badge" alt="LinuxDojo project badge — Linux Command-Line Learning Platform" />
 
-> **Interactive learning platform** for mastering Windows, Linux, and Git commands — with browser-based terminals, real-time validation, and progressive learning paths.
+> **Interactive learning platform** for mastering Linux/Ubuntu commands — with Asciinema terminal demos, guided practice mode, and per-user progress tracking.
 
 <br/>
 
 **What makes it special:**
 
-🎬 &nbsp; Terminal demos powered by **Asciinema**  
-🖥️ &nbsp; Browser-based command execution via **WASM terminal**  
-🧪 &nbsp; Real-time validation with contextual feedback  
-📚 &nbsp; Progressive learning paths from beginner to advanced  
-⚙️ &nbsp; Backend-heavy architecture designed to scale
+🎬 &nbsp; **Terminal demos** powered by Asciinema + video explanations per command
+🧪 &nbsp; **Guided practice mode** — step-by-step lessons with real-time contextual feedback
+🔍 &nbsp; **Smart search & filter** — search by name, slug, or syntax; filter by category tag
+📈 &nbsp; **Per-user progress tracking** — completed and in-progress commands on a personal dashboard
+🛠️ &nbsp; **Admin dashboard** — create, edit, publish/unpublish, and delete commands with live preview
+🔐 &nbsp; **Supabase Auth + RLS** — GitHub OAuth with row-level security for admin access control
 
 <br/>
 
-`Node.js` · `TypeScript` · `WebAssembly` · `Asciinema`
+`Node.js` · `Express` · `HTML/CSS/JS` · `Supabase Auth` · `Supabase Postgres` · `Asciinema` · `Render`
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-brightgreen?style=for-the-badge" alt="CLI Academy status — in active development" />
+  <a href="https://github.com/ppavankumar19/Linuxdojo">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="LinuxDojo source code on GitHub" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-10B981?style=for-the-badge" alt="LinuxDojo status — in active development" />
 </p>
 
 </td>
