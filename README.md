@@ -142,102 +142,34 @@ currently:
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/🤖_OpenClaw-Multi--Agent_AI_System-7C3AED?style=for-the-badge" alt="OpenClaw project badge — Multi-Agent AI Social Media Automation System" />
+### <img src="https://img.shields.io/badge/📋_Assessment_Platform-College_Hiring_Platform-7C3AED?style=for-the-badge" alt="Assessment Platform project badge — Technical Assessment Platform for College Placements" />
 
-> **Production-grade virtual AI intern** — a multi-agent system that researches trends, generates platform-native content (text + images), and publishes to Instagram, Twitter/X, LinkedIn, Facebook, and YouTube — all controlled via Telegram with human-in-the-loop approval.
-
-<br/>
-
-**What makes it special:**
-
-🧠 &nbsp; **Multi-agent architecture** — dedicated agent per platform, each with its own content types, generators, and publishing adapter
-⚡ &nbsp; **Cascading LLM pipeline** — Cerebras (Qwen-3 235B) → Groq (LLaMA 70B) → NVIDIA (Nemotron 120B) — fastest available model auto-selected at runtime
-📸 &nbsp; **Live post preview** via Playwright screenshot rendered before any content goes live
-✅ &nbsp; **Human-in-the-loop** — approve, reject, reschedule, or change tone via Telegram before publishing
-⏰ &nbsp; **Morning batch (8 AM)** — trend research → 3 drafted posts → sent to Telegram; evening performance report at 8 PM
-📧 &nbsp; **Bulk HR offer letters** — Excel upload → A4 PDF generation → SMTP email dispatch
-
-<br/>
-
-`Python` · `Async` · `python-telegram-bot` · `APScheduler` · `Playwright` · `Cerebras` · `Groq` · `NVIDIA NIM` · `Gemini Flash` · `Pollinations.ai`
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-🟡_In_Active_Development-F59E0B?style=for-the-badge" alt="OpenClaw status — in active development" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
-
-> **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
+> **Full-stack technical assessment platform** for college placements and hiring drives — anti-cheat MCQ and output-prediction tests, admin portal, real-time session management, and CSV export for results.
 
 <br/>
 
 **What makes it special:**
 
-🤖 &nbsp; **Groq Llama 3.3 70B** generates day-by-day itineraries with restaurant and activity picks  
-🏠 &nbsp; **Live Airbnb listings** via MCP server for real prices and availability  
-🗺️ &nbsp; **Interactive Leaflet.js maps** with every stop visualized  
-💱 &nbsp; **150+ currencies** via Frankfurter API  
-📄 &nbsp; **PDF and .ics export** for sharing and calendar sync  
-♿ &nbsp; **Accessibility-first filters** for wheelchair, elevator, and limited-walking needs
+🛡️ &nbsp; **Anti-cheat system** — fullscreen enforcement, tab-switch auto-disqualification, paste detection, DevTools blocking, and remote disqualify by admin in real time
+📝 &nbsp; **Two assessment types** — Output Prediction (code snippet → predict output) and MCQ, both auto-graded server-side
+🔁 &nbsp; **Typing replay** — keystroke timeline playback with Monaco Editor viewer and paste markers for malpractice review
+📚 &nbsp; **Question Library** — reusable bank; import into any round in one click with auto-distributed test case points
+📊 &nbsp; **CSV export** — all results or cutoff-filtered finalists; set passing threshold per round
+🔐 &nbsp; **Admin auth** — Supabase Auth with Google OAuth and Magic Link; no candidate login required
 
 <br/>
 
-`Python` · `Flask` · `Groq` · `Agno` · `Leaflet.js` · `Vanilla JS` · `Vercel`
+`Node.js` · `Fastify` · `PostgreSQL` · `Supabase Auth` · `Monaco Editor` · `Vanilla JS` · `Docker` · `Render`
 
 <br/>
 
 <p>
-  <a href="https://atlas.19062002.xyz">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Atlas-7C3AED?style=for-the-badge" alt="Visit Atlas live demo" />
+  <a href="https://assessment-platform-x8dl.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Platform-7C3AED?style=for-the-badge" alt="Visit Assessment Platform live demo" />
   </a>
   &nbsp;
-  <a href="https://github.com/ppavankumar19/atlas-travel-planner">
-    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🎙️_VaakAI-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VaakAI project badge — AI Student Speech Analyzer" />
-
-> **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL to get richer feedback than any interviewer could give in real-time.
-
-<br/>
-
-**What makes it special:**
-
-🎬 &nbsp; **Three input modes** — video upload, audio upload, or any public YouTube URL (auto-downloaded via yt-dlp)
-📝 &nbsp; **Timestamped transcription** via Sarvam.ai `saarika:v2.5` — filler words highlighted in red, technical terms in blue, click any line to seek in the recording
-📊 &nbsp; **9-metric AI analysis** via Groq Llama 3.1 70B — pace (WPM), grammar score, confidence, vocabulary richness, filler detection, topic segmentation, and more
-📡 &nbsp; **Visual dashboard** — Communication Radar, Filler Word Bar Chart, Speech Pace Timeline (Chart.js)
-💬 &nbsp; **RAG Q&A panel** — ask anything about the recording; ChromaDB + Groq with timestamp source chips to seek exact moments
-🌏 &nbsp; **Multi-language support** — Indian English, Hindi, Telugu, Tamil, Kannada, and Marathi
-
-<br/>
-
-`Python` · `FastAPI` · `Groq` · `Sarvam.ai` · `ChromaDB` · `Chart.js` · `FFmpeg` · `yt-dlp` · `PostgreSQL`
-
-<br/>
-
-<p>
-  <a href="https://github.com/ppavankumar19/VaakAI">
-    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="VaakAI source code on GitHub" />
+  <a href="https://github.com/ppavankumar19/assessment-platform">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Assessment Platform source code on GitHub" />
   </a>
 </p>
 
@@ -257,10 +189,10 @@ currently:
 
 **What makes it special:**
 
-🔐 &nbsp; **Supabase Auth** — email/password plus Google OAuth with role-based access  
-🛍️ &nbsp; Cart, buy-now, OTP-verified checkout, and UPI payment integration  
-📦 &nbsp; Item-level delivery tracking with real-time status updates  
-💬 &nbsp; In-order messaging between customers and admin  
+🔐 &nbsp; **Supabase Auth** — email/password plus Google OAuth with role-based access
+🛍️ &nbsp; Cart, buy-now, OTP-verified checkout, and UPI payment integration
+📦 &nbsp; Item-level delivery tracking with real-time status updates
+💬 &nbsp; In-order messaging between customers and admin
 🛠️ &nbsp; Full admin dashboard for products, orders, payments, customers, and users
 
 <br/>
@@ -307,6 +239,113 @@ currently:
 ```
 
 </details>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### <img src="https://img.shields.io/badge/🎙️_VaakAI-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VaakAI project badge — AI Student Speech Analyzer" />
+
+> **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL to get richer feedback than any interviewer could give in real-time.
+
+<br/>
+
+**What makes it special:**
+
+🎬 &nbsp; **Three input modes** — video upload, audio upload, or any public YouTube URL (auto-downloaded via yt-dlp)
+📝 &nbsp; **Timestamped transcription** via Sarvam.ai `saarika:v2.5` — filler words highlighted in red, technical terms in blue, click any line to seek in the recording
+📊 &nbsp; **9-metric AI analysis** via Groq Llama 3.1 70B — pace (WPM), grammar score, confidence, vocabulary richness, filler detection, topic segmentation, and more
+📡 &nbsp; **Visual dashboard** — Communication Radar, Filler Word Bar Chart, Speech Pace Timeline (Chart.js)
+💬 &nbsp; **RAG Q&A panel** — ask anything about the recording; ChromaDB + Groq with timestamp source chips to seek exact moments
+🌏 &nbsp; **Multi-language support** — Indian English, Hindi, Telugu, Tamil, Kannada, and Marathi
+
+<br/>
+
+`Python` · `FastAPI` · `Groq` · `Sarvam.ai` · `ChromaDB` · `Chart.js` · `FFmpeg` · `yt-dlp` · `PostgreSQL`
+
+<br/>
+
+<p>
+  <a href="https://github.com/ppavankumar19/VaakAI">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="VaakAI source code on GitHub" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
+
+> **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
+
+<br/>
+
+**What makes it special:**
+
+🤖 &nbsp; **Groq Llama 3.3 70B** generates day-by-day itineraries with restaurant and activity picks
+🏠 &nbsp; **Live Airbnb listings** via MCP server for real prices and availability
+🗺️ &nbsp; **Interactive Leaflet.js maps** with every stop visualized
+💱 &nbsp; **150+ currencies** via Frankfurter API
+📄 &nbsp; **PDF and .ics export** for sharing and calendar sync
+♿ &nbsp; **Accessibility-first filters** for wheelchair, elevator, and limited-walking needs
+
+<br/>
+
+`Python` · `Flask` · `Groq` · `Agno` · `Leaflet.js` · `Vanilla JS` · `Vercel`
+
+<br/>
+
+<p>
+  <a href="https://atlas.19062002.xyz">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Atlas-7C3AED?style=for-the-badge" alt="Visit Atlas live demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ppavankumar19/atlas-travel-planner">
+    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### <img src="https://img.shields.io/badge/🤖_OpenClaw-Multi--Agent_AI_System-7C3AED?style=for-the-badge" alt="OpenClaw project badge — Multi-Agent AI Social Media Automation System" />
+
+> **Production-grade virtual AI intern** — a multi-agent system that researches trends, generates platform-native content (text + images), and publishes to Instagram, Twitter/X, LinkedIn, Facebook, and YouTube — all controlled via Telegram with human-in-the-loop approval.
+
+<br/>
+
+**What makes it special:**
+
+🧠 &nbsp; **Multi-agent architecture** — dedicated agent per platform, each with its own content types, generators, and publishing adapter
+⚡ &nbsp; **Cascading LLM pipeline** — Cerebras (Qwen-3 235B) → Groq (LLaMA 70B) → NVIDIA (Nemotron 120B) — fastest available model auto-selected at runtime
+📸 &nbsp; **Live post preview** via Playwright screenshot rendered before any content goes live
+✅ &nbsp; **Human-in-the-loop** — approve, reject, reschedule, or change tone via Telegram before publishing
+⏰ &nbsp; **Morning batch (8 AM)** — trend research → 3 drafted posts → sent to Telegram; evening performance report at 8 PM
+📧 &nbsp; **Bulk HR offer letters** — Excel upload → A4 PDF generation → SMTP email dispatch
+
+<br/>
+
+`Python` · `Async` · `python-telegram-bot` · `APScheduler` · `Playwright` · `Cerebras` · `Groq` · `NVIDIA NIM` · `Gemini Flash` · `Pollinations.ai`
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-🟡_In_Active_Development-F59E0B?style=for-the-badge" alt="OpenClaw status — in active development" />
+</p>
 
 </td>
 </tr>
