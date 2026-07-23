@@ -61,7 +61,7 @@ currently:
   open_to   : Freelance projects · Full-time roles · GenAI collaborations
 ```
 
-> I build backend-heavy, AI-native software — from production platforms to autonomous agent systems. I care about systems that are simple to use, hard to break, and easy to scale.
+> I design and build backend-heavy, AI-native software — from production-grade platforms to autonomous multi-agent systems. My focus is on systems that are simple to use, hard to break, and built to scale.
 
 ---
 
@@ -132,7 +132,7 @@ currently:
 
 ### <img src="https://img.shields.io/badge/📋_Assessment_Platform-College_Hiring_Platform-7C3AED?style=for-the-badge" alt="Assessment Platform project badge — Technical Assessment Platform for College Placements" />
 
-> **Full-stack technical assessment platform** for college placements and hiring drives — anti-cheat MCQ and output-prediction tests, admin portal, real-time session management, and CSV export for results.
+> **Full-stack technical assessment platform** built for college placements and hiring drives — featuring anti-cheat enforcement, MCQ and output-prediction tests, a full admin portal, real-time session management, and CSV export for results.
 
 <br/>
 
@@ -171,14 +171,14 @@ currently:
 
 ### <img src="https://img.shields.io/badge/🧪_ChemSus-E--Commerce_Platform-3FCF8E?style=for-the-badge" alt="ChemSus project badge — E-Commerce Platform" />
 
-> **Production e-commerce platform** for ChemSus Technologies Pvt Ltd — with authentication, payments, order tracking, and a full admin dashboard.
+> **Production-grade e-commerce platform** built for ChemSus Technologies Pvt Ltd — with secure authentication, UPI payments, item-level order tracking, and a comprehensive admin dashboard.
 
 <br/>
 
 **What makes it special:**
 
 🔐 &nbsp; **Supabase Auth** — email/password plus Google OAuth with role-based access
-🛍️ &nbsp; Cart, buy-now, OTP-verified checkout, and UPI payment integration
+🛍️ &nbsp; Cart, buy-now flow, OTP-verified checkout, and UPI payment integration
 📦 &nbsp; Item-level delivery tracking with real-time status updates
 💬 &nbsp; In-order messaging between customers and admin
 🛠️ &nbsp; Full admin dashboard for products, orders, payments, customers, and users
@@ -238,7 +238,7 @@ currently:
 
 ### <img src="https://img.shields.io/badge/🎙️_VaakAI-AI_Speech_Analyzer-0EA5E9?style=for-the-badge" alt="VaakAI project badge — AI Student Speech Analyzer" />
 
-> **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL to get richer feedback than any interviewer could give in real-time.
+> **AI-powered speech analysis platform** — upload a video, audio file, or YouTube URL and receive deeper, more detailed feedback than any real-time interviewer can provide.
 
 <br/>
 
@@ -273,7 +273,7 @@ currently:
 
 ### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
 
-> **Full-stack AI travel planner** — generates complete itineraries, pulls live Airbnb listings, maps every stop, converts currencies, and exports PDFs and calendar files.
+> **Full-stack AI travel planner** that generates complete day-by-day itineraries, retrieves live Airbnb listings, visualizes every stop on an interactive map, converts currencies across 150+ countries, and exports PDFs and calendar files.
 
 <br/>
 
