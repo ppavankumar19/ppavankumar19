@@ -52,28 +52,16 @@
 
 ```yaml
 name       : Pavan Kumar Ponnuri
-location   : Visakhapatnam, Andhra Pradesh, India 🇮🇳
-education  : B.Tech — Computer Science
-title      : AI-Native Full-Stack Software Developer & Freelancer
-
-philosophy : "Ship systems that are simple to use, hard to break, and easy to scale."
-
-domains:
-  primary   : Backend Architecture · Distributed Systems · REST APIs
-  fullstack : Node.js · React · Vanilla JS
-  ai_native : LLM Integrations · Agent Frameworks · GenAI Product Engineering
-  data      : EDA · ML Pipelines · Decision Trees · Random Forests
+location   : Visakhapatnam, India 🇮🇳
+title      : AI-Native Software Developer · Gen AI Engineer · Freelancer
 
 currently:
-  building    : Social Media & HR Agent · Email Agent · PC Agent (Hermes)
-  also        : OpenClaw — Multi-Agent AI Social Media Automation System
-  designing   : Scalable backend systems & API architectures
-  exploring   : Autonomous AI agents & multi-tool orchestration
-  studying    : Advanced system design & distributed computing
-  freelancing : Backend APIs, full-stack apps & AI integrations
+  building  : Social Media & HR Agent · Email Agent · PC Agent (Hermes)
+  focus     : Backend APIs · AI Agents · GenAI Products
+  open_to   : Freelance projects · Full-time roles · GenAI collaborations
 ```
 
-> I build backend-heavy, AI-native, full-stack software for products and clients. My work sits at the intersection of robust system design and intelligent automation — from production e-commerce platforms to AI travel planners powered by LLMs. I care about systems that are simple to use, hard to break, and easy to scale.
+> I build backend-heavy, AI-native software — from production platforms to autonomous agent systems. I care about systems that are simple to use, hard to break, and easy to scale.
 
 ---
 
@@ -312,80 +300,6 @@ currently:
   <a href="https://github.com/ppavankumar19/atlas-travel-planner">
     <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="Atlas source code on GitHub" />
   </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🤖_OpenClaw-Multi--Agent_AI_System-7C3AED?style=for-the-badge" alt="OpenClaw project badge — Multi-Agent AI Social Media Automation System" />
-
-> **Production-grade virtual AI intern** — a multi-agent system that researches trends, generates platform-native content (text + images), and publishes to Instagram, Twitter/X, LinkedIn, Facebook, and YouTube — all controlled via Telegram with human-in-the-loop approval.
-
-<br/>
-
-**What makes it special:**
-
-🧠 &nbsp; **Multi-agent architecture** — dedicated agent per platform, each with its own content types, generators, and publishing adapter
-⚡ &nbsp; **Cascading LLM pipeline** — Cerebras (Qwen-3 235B) → Groq (LLaMA 70B) → NVIDIA (Nemotron 120B) — fastest available model auto-selected at runtime
-📸 &nbsp; **Live post preview** via Playwright screenshot rendered before any content goes live
-✅ &nbsp; **Human-in-the-loop** — approve, reject, reschedule, or change tone via Telegram before publishing
-⏰ &nbsp; **Morning batch (8 AM)** — trend research → 3 drafted posts → sent to Telegram; evening performance report at 8 PM
-📧 &nbsp; **Bulk HR offer letters** — Excel upload → A4 PDF generation → SMTP email dispatch
-
-<br/>
-
-`Python` · `Async` · `python-telegram-bot` · `APScheduler` · `Playwright` · `Cerebras` · `Groq` · `NVIDIA NIM` · `Gemini Flash` · `Pollinations.ai`
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-🟡_In_Active_Development-F59E0B?style=for-the-badge" alt="OpenClaw status — in active development" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### <img src="https://img.shields.io/badge/🐧_LinuxDojo-Command--Line_Learning-FF6F00?style=for-the-badge" alt="LinuxDojo project badge — Linux Command-Line Learning Platform" />
-
-> **Interactive learning platform** for mastering Linux/Ubuntu commands — with Asciinema terminal demos, guided practice mode, and per-user progress tracking.
-
-<br/>
-
-**What makes it special:**
-
-🎬 &nbsp; **Terminal demos** powered by Asciinema + video explanations per command
-🧪 &nbsp; **Guided practice mode** — step-by-step lessons with real-time contextual feedback
-🔍 &nbsp; **Smart search & filter** — search by name, slug, or syntax; filter by category tag
-📈 &nbsp; **Per-user progress tracking** — completed and in-progress commands on a personal dashboard
-🛠️ &nbsp; **Admin dashboard** — create, edit, publish/unpublish, and delete commands with live preview
-🔐 &nbsp; **Supabase Auth + RLS** — GitHub OAuth with row-level security for admin access control
-
-<br/>
-
-`Node.js` · `Express` · `HTML/CSS/JS` · `Supabase Auth` · `Supabase Postgres` · `Asciinema` · `Render`
-
-<br/>
-
-<p>
-  <a href="https://linuxdojo.onrender.com/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_LinuxDojo-FF6F00?style=for-the-badge" alt="Visit LinuxDojo live demo" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ppavankumar19/Linuxdojo">
-    <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="LinuxDojo source code on GitHub" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-🟢_In_Active_Development-10B981?style=for-the-badge" alt="LinuxDojo status — in active development" />
 </p>
 
 </td>
