@@ -131,24 +131,24 @@ I design and build backend-heavy, AI-native software — from production-grade p
 
 **What makes it special:**
 
-🔐 &nbsp; **Supabase Auth** — email/password plus Google OAuth with role-based access
-🛍️ &nbsp; Cart, buy-now flow, OTP-verified checkout, and UPI payment integration
-📦 &nbsp; Item-level delivery tracking with real-time status updates
+🔐 &nbsp; **Local JWT Auth** — customers sign up with email + password (scrypt-hashed); OTP email verification on signup, login, and checkout; admin secured via HMAC-signed JWT
+🛍️ &nbsp; Cart, buy-now flow, OTP-verified checkout, and UPI payment integration with branded PDF quotations
+📦 &nbsp; Item-level delivery tracking with real-time order status updates
 💬 &nbsp; In-order messaging between customers and admin
-🛠️ &nbsp; Full admin dashboard for products, orders, payments, customers, and users
+🛠️ &nbsp; Full admin dashboard — products, orders, payments, customers, analytics, and audit logs
 
 <br/>
 
-`Node.js` · `Express` · `PostgreSQL` · `Supabase` · `Vanilla JS`
+`Node.js` · `Express` · `SQLite` · `Nodemailer` · `Vanilla JS` · `Nginx` · `PM2`
 
 <br/>
 
 <p>
-  <a href="https://chemsus-technologies-pvt-ltd.onrender.com">
+  <a href="https://chemsus.in">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_ChemSus-3FCF8E?style=for-the-badge" alt="Visit ChemSus live demo" />
   </a>
   &nbsp;
-  <a href="https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-LTD">
+  <a href="https://github.com/ppavankumar19/ChemSus-Technologies-Pvt-Ltd">
     <img src="https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github" alt="ChemSus source code on GitHub" />
   </a>
 </p>
@@ -168,15 +168,15 @@ I design and build backend-heavy, AI-native software — from production-grade p
                     │   SERVER (Node.js + Express) │
                     │                              │
                     │  Routes → Controllers →      │
-                    │  Middleware (Auth, Roles, OTP)│
+                    │  Middleware (JWT, OTP, Roles) │
                     └──────┬────────────┬──────────┘
                            │            │
                   ┌────────▼──┐   ┌─────▼──────────┐
-                  │PostgreSQL │   │ Supabase Auth   │
+                  │  SQLite   │   │   Nodemailer    │
                   │           │   │                 │
-                  │ Products  │   │ Email/Password  │
-                  │ Orders    │   │ Google OAuth    │
-                  │ Payments  │   │ Sessions        │
+                  │ Products  │   │ OTP emails      │
+                  │ Orders    │   │ Quotation PDFs  │
+                  │ Payments  │   │ Confirmations   │
                   └───────────┘   └─────────────────┘
 ```
 
@@ -227,22 +227,22 @@ I design and build backend-heavy, AI-native software — from production-grade p
 
 ### <img src="https://img.shields.io/badge/🗺️_Atlas-AI_Travel_Planner-7C3AED?style=for-the-badge" alt="Atlas project badge — AI Travel Planner" />
 
-> **Full-stack AI travel planner** that generates complete day-by-day itineraries, retrieves live Airbnb listings, visualizes every stop on an interactive map, converts currencies across 150+ countries, and exports PDFs and calendar files.
+> **Full-stack AI travel planner** that generates complete day-by-day itineraries, visualizes every stop on an interactive map, supports 30 live currencies, and exports structured PDFs and calendar files.
 
 <br/>
 
 **What makes it special:**
 
-🤖 &nbsp; **Groq Llama 3.3 70B** generates day-by-day itineraries with restaurant and activity picks
-🏠 &nbsp; **Live Airbnb listings** via MCP server for real prices and availability
-🗺️ &nbsp; **Interactive Leaflet.js maps** with every stop visualized
-💱 &nbsp; **150+ currencies** via Frankfurter API
-📄 &nbsp; **PDF and .ics export** for sharing and calendar sync
-♿ &nbsp; **Accessibility-first filters** for wheelchair, elevator, and limited-walking needs
+🌊 &nbsp; **Live SSE streaming** — AI output rendered token-by-token in real time with a masked preview window
+🤖 &nbsp; **Groq Llama 3.3 70B** generates tailored day-by-day itineraries with restaurant picks, activities, and practical info
+🗺️ &nbsp; **Interactive Leaflet.js maps** — colour-coded per-day pins with Google Maps deep-links; no API key required
+💱 &nbsp; **30 currencies** via Frankfurter API with live FX rate annotations inline in the itinerary text
+🎒 &nbsp; **AI packing list** — emoji-categorised checklist generated per destination, travel style, and accessibility needs
+♿ &nbsp; **Accessibility-first filters** — wheelchair, elevator, limited-walking, visual and hearing impairment options
 
 <br/>
 
-`Python` · `Flask` · `Groq` · `Agno` · `Leaflet.js` · `Vanilla JS` · `Vercel`
+`Python` · `Flask` · `Groq` · `Agno` · `Leaflet.js` · `Nominatim` · `jsPDF` · `Vanilla JS` · `Vercel`
 
 <br/>
 
