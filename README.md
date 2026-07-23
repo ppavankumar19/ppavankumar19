@@ -50,18 +50,13 @@
 
 ## `> whoami`
 
-```yaml
-name       : Pavan Kumar Ponnuri
-location   : Visakhapatnam, India 🇮🇳
-title      : AI-Native Software Developer · Gen AI Engineer · Freelancer
+**Pavan Kumar Ponnuri** — AI-Native Software Developer · Gen AI Engineer · Freelancer · Visakhapatnam, India 🇮🇳
 
-currently:
-  building  : Social Media & HR Agent · Email Agent · PC Agent (Hermes)
-  focus     : Backend APIs · AI Agents · GenAI Products
-  open_to   : Freelance projects · Full-time roles · GenAI collaborations
-```
+I design and build backend-heavy, AI-native software — from production-grade platforms to autonomous multi-agent systems. My focus is on systems that are simple to use, hard to break, and built to scale.
 
-> I design and build backend-heavy, AI-native software — from production-grade platforms to autonomous multi-agent systems. My focus is on systems that are simple to use, hard to break, and built to scale.
+- 🔨 &nbsp; Currently building a **Social Media & HR Agent**, **Email Agent**, and **PC Agent** using the Hermes agent framework
+- 🎯 &nbsp; Core focus areas: **Backend APIs · AI Agents · Generative AI Products**
+- 💼 &nbsp; Open to freelance projects, full-time roles, and GenAI collaborations
 
 ---
 
