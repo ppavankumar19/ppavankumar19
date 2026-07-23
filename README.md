@@ -60,47 +60,6 @@ I design and build backend-heavy, AI-native software — from production-grade p
 
 ---
 
-## 💼 Freelance Services
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js icon representing backend API services" /><br/>
-      <b>Backend APIs</b><br/>
-      <sub>REST APIs,<br/>microservices, auth systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/react/61DAFB" alt="React icon representing full-stack app development" /><br/>
-      <b>Full-Stack Apps</b><br/>
-      <sub>End-to-end web platforms<br/>with admin dashboards</sub>
-    </td>
-    <td align="center" width="25%">
-      <img height="36" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI icon representing AI integration services" /><br/>
-      <b>AI Integrations</b><br/>
-      <sub>LLM-powered features,<br/>chatbots, agent systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="36" height="36" src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL icon representing data and analytics services" /><br/>
-      <b>Data & Analytics</b><br/>
-      <sub>Dashboards, EDA,<br/>ML model pipelines</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="mailto:pavankumar.prrp@gmail.com">
-  <img
-    src="https://img.shields.io/badge/📩_Discuss_a_Project-Let's_Talk-7C3AED?style=for-the-badge"
-    alt="Email pavankumar.prrp@gmail.com to discuss a project"
-  />
-</a>
-
-</div>
-
----
-
 ## 🧰 Tech Arsenal
 
 <div align="center">
@@ -300,6 +259,47 @@ I design and build backend-heavy, AI-native software — from production-grade p
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Freelance Services
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js icon representing backend API services" /><br/>
+      <b>Backend APIs</b><br/>
+      <sub>REST APIs,<br/>microservices, auth systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/react/61DAFB" alt="React icon representing full-stack app development" /><br/>
+      <b>Full-Stack Apps</b><br/>
+      <sub>End-to-end web platforms<br/>with admin dashboards</sub>
+    </td>
+    <td align="center" width="25%">
+      <img height="36" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI icon representing AI integration services" /><br/>
+      <b>AI Integrations</b><br/>
+      <sub>LLM-powered features,<br/>chatbots, agent systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <img width="36" height="36" src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL icon representing data and analytics services" /><br/>
+      <b>Data & Analytics</b><br/>
+      <sub>Dashboards, EDA,<br/>ML model pipelines</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="mailto:pavankumar.prrp@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📩_Discuss_a_Project-Let's_Talk-7C3AED?style=for-the-badge"
+    alt="Email pavankumar.prrp@gmail.com to discuss a project"
+  />
+</a>
+
+</div>
 
 ---
 
